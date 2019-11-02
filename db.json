@@ -11,4 +11,8 @@
   "profile": {
     "name": "typicode"
   }
+  "signup": {
+    "success": true,
+    "message": "Welcome to Dummy Service!"
+  }
 }
